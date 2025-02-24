@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\rtxft\Desktop\Scala Project\src\main\scala\com\analyzer\Main.scala:19:23: ambiguous implicit values:[0m
+[0m[[0m[31merror[0m] [0m[0m both method global in object Implicits of type scala.concurrent.ExecutionContext[0m
+[0m[[0m[31merror[0m] [0m[0m and value ec in object Main of type scala.concurrent.ExecutionContext[0m
+[0m[[0m[31merror[0m] [0m[0m match expected type scala.concurrent.ExecutionContext[0m
+[0m[[0m[31merror[0m] [0m[0m  val solanaService = new SolanaService()[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\rtxft\Desktop\Scala Project\src\main\scala\com\analyzer\Main.scala:26:62: value toList is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m      val stats = analyzerService.analyzeWallet(transactions.toList)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

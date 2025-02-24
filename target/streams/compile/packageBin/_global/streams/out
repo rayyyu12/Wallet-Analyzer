@@ -1,0 +1,39 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\solana-wallet-analyzer_2.13-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\models[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\models\Trade$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\models\Trade$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\models\Trade.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\models\Trade.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\models\Transaction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\models\Transaction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\models\Transaction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\models\Transaction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\models\WalletStats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\models\WalletStats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\models\WalletStats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\models\WalletStats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\services[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\services\AnalyzerService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\services\AnalyzerService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\services\SolanaService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\services\SolanaService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\utils\DateUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\utils\DateUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\analyzer\utils\DateUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\rtxft\Desktop\Scala Project\target\scala-2.13\classes\com\analyzer\utils\DateUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
