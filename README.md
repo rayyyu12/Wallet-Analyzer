@@ -1,8 +1,8 @@
 # Solana Wallet Analyzer 🔍
 
-A Scala-based tool for analyzing Solana wallets to identify optimal trading patterns and potential wallets for copy trading.
+A Scala-based tool for analyzing Solana wallets to identify optimal trading patterns and potential wallets for copy trading. 📊
 
-## Features
+## Features ⚡
 
 - Comprehensive transaction analysis and profit tracking
 - Win rate and trade pattern analysis
@@ -11,7 +11,7 @@ A Scala-based tool for analyzing Solana wallets to identify optimal trading patt
 - Best and worst trade identification
 - Trading pattern recognition
 
-## Technical Stack
+## Technical Stack 🛠️
 
 - Scala 2.13
 - STTP HTTP Client
@@ -19,7 +19,7 @@ A Scala-based tool for analyzing Solana wallets to identify optimal trading patt
 - Solana RPC API
 - Concurrent Programming Support
 
-## Analysis Metrics
+## Analysis Metrics 📈
 
 The analyzer provides the following wallet statistics:
 - 30-day profit analysis
@@ -29,7 +29,7 @@ The analyzer provides the following wallet statistics:
 - Best and worst trade performance
 - Average position hold time
 
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
@@ -45,7 +45,7 @@ cd solana-wallet-analyzer
 sbt clean compile
 ```
 
-### Usage
+### Usage 💻
 
 Run the analyzer with a wallet address:
 ```bash
@@ -65,7 +65,7 @@ Average Hold Time: 4.5 hours
 ==================
 ```
 
-## Project Structure
+## Project Structure 📁
 
 ```
 src/main/scala/com/analyzer/
@@ -81,7 +81,7 @@ src/main/scala/com/analyzer/
     └── DateUtils.scala       # Time calculation utilities
 ```
 
-## Features in Development
+## Features in Development 🔄
 
 - Advanced pattern recognition
 - Multiple wallet comparison
@@ -90,7 +90,7 @@ src/main/scala/com/analyzer/
 - Historical trend analysis
 - Performance reporting exports
 
-## Important Notes
+## Important Notes ⚠️
 
 - Tool is currently in active development
 - Requires a reliable Solana RPC endpoint
@@ -98,7 +98,7 @@ src/main/scala/com/analyzer/
 - Keep wallet addresses private and secure
 - Monitor RPC provider rate limits
 
-## Best Practices
+## Best Practices 💡
 
 - Use a reliable RPC endpoint
 - Consider running analysis during off-peak hours
@@ -106,14 +106,10 @@ src/main/scala/com/analyzer/
 - Regularly monitor rate limits
 - Keep private keys secure
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome. Please feel free to submit a Pull Request.
 
-## License
+## License 📝
 
 This project is proprietary software. All rights reserved.
-
-## Support
-
-For issues and feature requests, please open a GitHub issue.
